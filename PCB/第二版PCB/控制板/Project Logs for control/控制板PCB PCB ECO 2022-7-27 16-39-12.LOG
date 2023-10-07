@@ -1,0 +1,187 @@
+Added Component: Designator=*1(PIN_HEADER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*2(POWER_HEADER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*3(SIWITCH)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*4(WATER_HEADER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*5(ENCODER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*6(ENCODER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*7(ENCODER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*8(ENCODER1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*9(ENCODER1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*10(ENCODER1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*11(POWER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*12(HC-06)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*13(STM32F407左)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*14(STM32F407左)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*15(DC-DC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*17(A4950)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=H1 Pin=*1-1
+Added Pin To Net: NetName=H2 Pin=*1-2
+Added Pin To Net: NetName=H3 Pin=*1-3
+Added Pin To Net: NetName=H4 Pin=*1-4
+Added Pin To Net: NetName=H5 Pin=*1-5
+Added Pin To Net: NetName=H6 Pin=*1-6
+Added Pin To Net: NetName=H7 Pin=*1-7
+Added Pin To Net: NetName=H8 Pin=*1-8
+Added Pin To Net: NetName=H9 Pin=*1-9
+Added Pin To Net: NetName=H10 Pin=*1-10
+Added Pin To Net: NetName=5V Pin=*2-1
+Added Pin To Net: NetName=5V Pin=*2-2
+Added Pin To Net: NetName=3V3 Pin=*2-3
+Added Pin To Net: NetName=3V3 Pin=*2-4
+Added Pin To Net: NetName=GND Pin=*2-5
+Added Pin To Net: NetName=GND Pin=*2-6
+Added Pin To Net: NetName=GND Pin=*2-7
+Added Pin To Net: NetName=GND Pin=*2-8
+Added Pin To Net: NetName=12V_IN Pin=*3-1
+Added Pin To Net: NetName=12V Pin=*3-2
+Added Pin To Net: NetName=GND Pin=*3-3
+Added Pin To Net: NetName=GND Pin=*3-4
+Added Pin To Net: NetName=GND Pin=*3-5
+Added Pin To Net: NetName=GND Pin=*3-6
+Added Pin To Net: NetName=WATERO1 Pin=*4-1
+Added Pin To Net: NetName=WATERO2 Pin=*4-2
+Added Pin To Net: NetName=MO41 Pin=*5-1
+Added Pin To Net: NetName=GND Pin=*5-2
+Added Pin To Net: NetName=EN4B Pin=*5-3
+Added Pin To Net: NetName=EN4A Pin=*5-4
+Added Pin To Net: NetName=5V Pin=*5-5
+Added Pin To Net: NetName=MO42 Pin=*5-6
+Added Pin To Net: NetName=MO51 Pin=*6-1
+Added Pin To Net: NetName=GND Pin=*6-2
+Added Pin To Net: NetName=EN5B Pin=*6-3
+Added Pin To Net: NetName=EN5A Pin=*6-4
+Added Pin To Net: NetName=5V Pin=*6-5
+Added Pin To Net: NetName=MO52 Pin=*6-6
+Added Pin To Net: NetName=MO61 Pin=*7-1
+Added Pin To Net: NetName=GND Pin=*7-2
+Added Pin To Net: NetName=EN6B Pin=*7-3
+Added Pin To Net: NetName=EN6A Pin=*7-4
+Added Pin To Net: NetName=5V Pin=*7-5
+Added Pin To Net: NetName=MO62 Pin=*7-6
+Added Pin To Net: NetName=MO11 Pin=*8-1
+Added Pin To Net: NetName=GND Pin=*8-2
+Added Pin To Net: NetName=EN1B Pin=*8-3
+Added Pin To Net: NetName=EN1A Pin=*8-4
+Added Pin To Net: NetName=5V Pin=*8-5
+Added Pin To Net: NetName=MO12 Pin=*8-6
+Added Pin To Net: NetName=MO21 Pin=*9-1
+Added Pin To Net: NetName=GND Pin=*9-2
+Added Pin To Net: NetName=EN2B Pin=*9-3
+Added Pin To Net: NetName=EN2A Pin=*9-4
+Added Pin To Net: NetName=5V Pin=*9-5
+Added Pin To Net: NetName=MO22 Pin=*9-6
+Added Pin To Net: NetName=MO31 Pin=*10-1
+Added Pin To Net: NetName=GND Pin=*10-2
+Added Pin To Net: NetName=EN3B Pin=*10-3
+Added Pin To Net: NetName=EN3A Pin=*10-4
+Added Pin To Net: NetName=5V Pin=*10-5
+Added Pin To Net: NetName=MO32 Pin=*10-6
+Added Pin To Net: NetName=12V_IN Pin=*11-1
+Added Pin To Net: NetName=GND Pin=*11-2
+Added Pin To Net: NetName=HR Pin=*12-1
+Added Pin To Net: NetName=HT Pin=*12-2
+Added Pin To Net: NetName=GND Pin=*12-3
+Added Pin To Net: NetName=5V Pin=*12-4
+Added Pin To Net: NetName=3V3 Pin=*13-1
+Added Pin To Net: NetName=GND Pin=*13-2
+Added Pin To Net: NetName=GND Pin=*13-3
+Added Pin To Net: NetName=EN1B Pin=*13-5
+Added Pin To Net: NetName=HR Pin=*13-7
+Added Pin To Net: NetName=EN5B Pin=*13-14
+Added Pin To Net: NetName=EN6B Pin=*13-17
+Added Pin To Net: NetName=WATER1 Pin=*13-21
+Added Pin To Net: NetName=3V3 Pin=*13-23
+Added Pin To Net: NetName=GND Pin=*13-24
+Added Pin To Net: NetName=GND Pin=*13-25
+Added Pin To Net: NetName=HT Pin=*13-28
+Added Pin To Net: NetName=EN4A Pin=*13-31
+Added Pin To Net: NetName=EN4B Pin=*13-32
+Added Pin To Net: NetName=EN5A Pin=*13-36
+Added Pin To Net: NetName=EN6A Pin=*13-39
+Added Pin To Net: NetName=WATER2 Pin=*13-42
+Added Pin To Net: NetName=GND Pin=*13-45
+Added Pin To Net: NetName=GND Pin=*13-46
+Added Pin To Net: NetName=GND Pin=*13-47
+Added Pin To Net: NetName=GND Pin=*13-48
+Added Pin To Net: NetName=GND Pin=*13-49
+Added Pin To Net: NetName=GND Pin=*13-50
+Added Pin To Net: NetName=5V Pin=*14-1
+Added Pin To Net: NetName=3V3 Pin=*14-2
+Added Pin To Net: NetName=GND Pin=*14-3
+Added Pin To Net: NetName=EN2A Pin=*14-6
+Added Pin To Net: NetName=401T Pin=*14-11
+Added Pin To Net: NetName=H1 Pin=*14-13
+Added Pin To Net: NetName=H2 Pin=*14-14
+Added Pin To Net: NetName=H3 Pin=*14-15
+Added Pin To Net: NetName=H4 Pin=*14-16
+Added Pin To Net: NetName=H5 Pin=*14-17
+Added Pin To Net: NetName=H6 Pin=*14-18
+Added Pin To Net: NetName=H7 Pin=*14-19
+Added Pin To Net: NetName=H8 Pin=*14-20
+Added Pin To Net: NetName=H9 Pin=*14-21
+Added Pin To Net: NetName=H10 Pin=*14-22
+Added Pin To Net: NetName=5V Pin=*14-23
+Added Pin To Net: NetName=3V3 Pin=*14-24
+Added Pin To Net: NetName=GND Pin=*14-25
+Added Pin To Net: NetName=EN1A Pin=*14-26
+Added Pin To Net: NetName=EN2B Pin=*14-29
+Added Pin To Net: NetName=401R Pin=*14-33
+Added Pin To Net: NetName=EN3A Pin=*14-35
+Added Pin To Net: NetName=EN3B Pin=*14-41
+Added Pin To Net: NetName=GND Pin=*14-45
+Added Pin To Net: NetName=GND Pin=*14-46
+Added Pin To Net: NetName=GND Pin=*14-47
+Added Pin To Net: NetName=GND Pin=*14-48
+Added Pin To Net: NetName=GND Pin=*14-49
+Added Pin To Net: NetName=GND Pin=*14-50
+Added Pin To Net: NetName=GND Pin=*15-1
+Added Pin To Net: NetName=GND Pin=*15-2
+Added Pin To Net: NetName=12V Pin=*15-3
+Added Pin To Net: NetName=12V Pin=*15-4
+Added Pin To Net: NetName=GND Pin=*15-5
+Added Pin To Net: NetName=GND Pin=*15-6
+Added Pin To Net: NetName=5V Pin=*15-7
+Added Pin To Net: NetName=5V Pin=*15-8
+Added Pin To Net: NetName=GND Pin=*17-1
+Added Pin To Net: NetName=12V Pin=*17-2
+Added Pin To Net: NetName=5V Pin=*17-3
+Added Pin To Net: NetName=WATER1 Pin=*17-4
+Added Pin To Net: NetName=WATER2 Pin=*17-5
+Added Pin To Net: NetName=WATERO1 Pin=*17-8
+Added Pin To Net: NetName=WATERO2 Pin=*17-9
+Added Pin To Net: NetName=5V Pin=*17-12
+Added Pin To Net: NetName=12V Pin=*17-13
+Added Pin To Net: NetName=GND Pin=*17-14
+Added Member To Class: ClassName=控制板原理图 Member=Component *1 PIN_HEADER
+Added Member To Class: ClassName=控制板原理图 Member=Component *2 POWER_HEADER
+Added Member To Class: ClassName=控制板原理图 Member=Component *3 SWITCH
+Added Member To Class: ClassName=控制板原理图 Member=Component *4 WATER_MOTER
+Added Member To Class: ClassName=控制板原理图 Member=Component *5 ENCODER4
+Added Member To Class: ClassName=控制板原理图 Member=Component *6 ENCODER5
+Added Member To Class: ClassName=控制板原理图 Member=Component *7 ENCODER6
+Added Member To Class: ClassName=控制板原理图 Member=Component *8 ENCODER1
+Added Member To Class: ClassName=控制板原理图 Member=Component *9 ENCODER2
+Added Member To Class: ClassName=控制板原理图 Member=Component *10 ENCODER3
+Added Member To Class: ClassName=控制板原理图 Member=Component *11 POWER
+Added Member To Class: ClassName=控制板原理图 Member=Component *12 HC-06
+Added Member To Class: ClassName=控制板原理图 Member=Component *13 STM32F407右
+Added Member To Class: ClassName=控制板原理图 Member=Component *14 STM32F407左
+Added Member To Class: ClassName=控制板原理图 Member=Component *15 DC-DC
+Added Member To Class: ClassName=控制板原理图 Member=Component *17 A4950
+Added Room: Name=控制板原理图

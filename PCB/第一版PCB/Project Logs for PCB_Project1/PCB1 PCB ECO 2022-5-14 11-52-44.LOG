@@ -1,0 +1,12 @@
+Added Component: Designator=*9(DC-DC)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=*9-1
+Added Pin To Net: NetName=GND Pin=*9-2
+Added Pin To Net: NetName=12V Pin=*9-3
+Added Pin To Net: NetName=12V Pin=*9-4
+Added Pin To Net: NetName=GND Pin=*9-5
+Added Pin To Net: NetName=GND Pin=*9-6
+Added Pin To Net: NetName=5V Pin=*9-7
+Added Pin To Net: NetName=5V Pin=*9-8
+Added Member To Class: ClassName=Sheet1 Member=Component *9 DC-DC
+Added Room: Name=Sheet1

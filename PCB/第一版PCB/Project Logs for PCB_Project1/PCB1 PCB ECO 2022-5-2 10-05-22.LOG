@@ -1,0 +1,334 @@
+Added Component: Designator=*1(PIN_HEADER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*2(POWER_HEADER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*3(SIWITCH)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*4(WATER_HEADER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*5(A4950)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*6(A4950)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*7(A4950)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*8(A4950)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*10(HC-06)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*11(DC-DC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*12(POWER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*13(ENCODER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*14(ENCODER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*15(ENCODER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*16(ENCODER1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*17(ENCODER1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*18(ENCODER1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*19(STM32F407×ó)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*20(STM32F407×ó)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*21(PWM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*22(STM32F401CCU6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*23(ESP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*24(PWM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*25(PWM)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=*2-3
+Added Pin To Net: NetName=3V3 Pin=*2-4
+Added Pin To Net: NetName=3V3 Pin=*19-2
+Added Pin To Net: NetName=3V3 Pin=*19-24
+Added Pin To Net: NetName=3V3 Pin=*20-1
+Added Pin To Net: NetName=3V3 Pin=*20-23
+Added Pin To Net: NetName=3V3 Pin=*22-39
+Added Pin To Net: NetName=3V3 Pin=*23-11
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=*2-1
+Added Pin To Net: NetName=5V Pin=*2-2
+Added Pin To Net: NetName=5V Pin=*5-3
+Added Pin To Net: NetName=5V Pin=*5-12
+Added Pin To Net: NetName=5V Pin=*6-3
+Added Pin To Net: NetName=5V Pin=*6-12
+Added Pin To Net: NetName=5V Pin=*7-3
+Added Pin To Net: NetName=5V Pin=*7-12
+Added Pin To Net: NetName=5V Pin=*8-3
+Added Pin To Net: NetName=5V Pin=*8-12
+Added Pin To Net: NetName=5V Pin=*10-4
+Added Pin To Net: NetName=5V Pin=*11-5
+Added Pin To Net: NetName=5V Pin=*13-5
+Added Pin To Net: NetName=5V Pin=*14-5
+Added Pin To Net: NetName=5V Pin=*15-5
+Added Pin To Net: NetName=5V Pin=*16-5
+Added Pin To Net: NetName=5V Pin=*17-5
+Added Pin To Net: NetName=5V Pin=*18-5
+Added Pin To Net: NetName=5V Pin=*19-1
+Added Pin To Net: NetName=5V Pin=*19-23
+Added Pin To Net: NetName=5V Pin=*21-2
+Added Pin To Net: NetName=5V Pin=*22-19
+Added Pin To Net: NetName=5V Pin=*23-15
+Added Pin To Net: NetName=5V Pin=*24-2
+Added Pin To Net: NetName=5V Pin=*25-2
+Added Net: Name=5V
+Added Pin To Net: NetName=12V_IN Pin=*3-1
+Added Pin To Net: NetName=12V_IN Pin=*12-1
+Added Net: Name=12V_IN
+Added Pin To Net: NetName=12V Pin=*3-2
+Added Pin To Net: NetName=12V Pin=*5-2
+Added Pin To Net: NetName=12V Pin=*5-13
+Added Pin To Net: NetName=12V Pin=*6-2
+Added Pin To Net: NetName=12V Pin=*6-13
+Added Pin To Net: NetName=12V Pin=*7-2
+Added Pin To Net: NetName=12V Pin=*7-13
+Added Pin To Net: NetName=12V Pin=*8-2
+Added Pin To Net: NetName=12V Pin=*8-13
+Added Pin To Net: NetName=12V Pin=*11-1
+Added Pin To Net: NetName=12V Pin=*11-2
+Added Net: Name=12V
+Added Pin To Net: NetName=401R Pin=*19-33
+Added Pin To Net: NetName=401R Pin=*22-31
+Added Net: Name=401R
+Added Pin To Net: NetName=401T Pin=*19-11
+Added Pin To Net: NetName=401T Pin=*22-32
+Added Net: Name=401T
+Added Pin To Net: NetName=EN1A Pin=*16-4
+Added Pin To Net: NetName=EN1A Pin=*19-26
+Added Net: Name=EN1A
+Added Pin To Net: NetName=EN1B Pin=*16-3
+Added Pin To Net: NetName=EN1B Pin=*20-5
+Added Net: Name=EN1B
+Added Pin To Net: NetName=EN2A Pin=*17-4
+Added Pin To Net: NetName=EN2A Pin=*19-6
+Added Net: Name=EN2A
+Added Pin To Net: NetName=EN2B Pin=*17-3
+Added Pin To Net: NetName=EN2B Pin=*19-29
+Added Net: Name=EN2B
+Added Pin To Net: NetName=EN3A Pin=*18-4
+Added Pin To Net: NetName=EN3A Pin=*19-35
+Added Net: Name=EN3A
+Added Pin To Net: NetName=EN3B Pin=*18-3
+Added Pin To Net: NetName=EN3B Pin=*19-41
+Added Net: Name=EN3B
+Added Pin To Net: NetName=EN4A Pin=*13-4
+Added Pin To Net: NetName=EN4A Pin=*20-31
+Added Net: Name=EN4A
+Added Pin To Net: NetName=EN4B Pin=*13-3
+Added Pin To Net: NetName=EN4B Pin=*20-32
+Added Net: Name=EN4B
+Added Pin To Net: NetName=EN5A Pin=*14-4
+Added Pin To Net: NetName=EN5A Pin=*20-36
+Added Net: Name=EN5A
+Added Pin To Net: NetName=EN5B Pin=*14-3
+Added Pin To Net: NetName=EN5B Pin=*20-14
+Added Net: Name=EN5B
+Added Pin To Net: NetName=EN6A Pin=*15-4
+Added Pin To Net: NetName=EN6A Pin=*20-39
+Added Net: Name=EN6A
+Added Pin To Net: NetName=EN6B Pin=*15-3
+Added Pin To Net: NetName=EN6B Pin=*20-17
+Added Net: Name=EN6B
+Added Pin To Net: NetName=ESPR Pin=*20-38
+Added Pin To Net: NetName=ESPR Pin=*23-27
+Added Net: Name=ESPR
+Added Pin To Net: NetName=ESPT Pin=*20-16
+Added Pin To Net: NetName=ESPT Pin=*23-28
+Added Net: Name=ESPT
+Added Pin To Net: NetName=GND Pin=*2-5
+Added Pin To Net: NetName=GND Pin=*2-6
+Added Pin To Net: NetName=GND Pin=*2-7
+Added Pin To Net: NetName=GND Pin=*2-8
+Added Pin To Net: NetName=GND Pin=*3-3
+Added Pin To Net: NetName=GND Pin=*3-4
+Added Pin To Net: NetName=GND Pin=*3-5
+Added Pin To Net: NetName=GND Pin=*3-6
+Added Pin To Net: NetName=GND Pin=*5-1
+Added Pin To Net: NetName=GND Pin=*5-14
+Added Pin To Net: NetName=GND Pin=*6-1
+Added Pin To Net: NetName=GND Pin=*6-14
+Added Pin To Net: NetName=GND Pin=*7-1
+Added Pin To Net: NetName=GND Pin=*7-14
+Added Pin To Net: NetName=GND Pin=*8-1
+Added Pin To Net: NetName=GND Pin=*8-14
+Added Pin To Net: NetName=GND Pin=*10-3
+Added Pin To Net: NetName=GND Pin=*11-3
+Added Pin To Net: NetName=GND Pin=*11-4
+Added Pin To Net: NetName=GND Pin=*12-2
+Added Pin To Net: NetName=GND Pin=*13-2
+Added Pin To Net: NetName=GND Pin=*14-2
+Added Pin To Net: NetName=GND Pin=*15-2
+Added Pin To Net: NetName=GND Pin=*16-2
+Added Pin To Net: NetName=GND Pin=*17-2
+Added Pin To Net: NetName=GND Pin=*18-2
+Added Pin To Net: NetName=GND Pin=*19-3
+Added Pin To Net: NetName=GND Pin=*19-25
+Added Pin To Net: NetName=GND Pin=*19-45
+Added Pin To Net: NetName=GND Pin=*19-46
+Added Pin To Net: NetName=GND Pin=*19-47
+Added Pin To Net: NetName=GND Pin=*19-48
+Added Pin To Net: NetName=GND Pin=*19-49
+Added Pin To Net: NetName=GND Pin=*19-50
+Added Pin To Net: NetName=GND Pin=*20-2
+Added Pin To Net: NetName=GND Pin=*20-3
+Added Pin To Net: NetName=GND Pin=*20-24
+Added Pin To Net: NetName=GND Pin=*20-25
+Added Pin To Net: NetName=GND Pin=*20-45
+Added Pin To Net: NetName=GND Pin=*20-46
+Added Pin To Net: NetName=GND Pin=*20-47
+Added Pin To Net: NetName=GND Pin=*20-48
+Added Pin To Net: NetName=GND Pin=*20-49
+Added Pin To Net: NetName=GND Pin=*20-50
+Added Pin To Net: NetName=GND Pin=*21-1
+Added Pin To Net: NetName=GND Pin=*22-18
+Added Pin To Net: NetName=GND Pin=*22-20
+Added Pin To Net: NetName=GND Pin=*22-38
+Added Pin To Net: NetName=GND Pin=*22-40
+Added Pin To Net: NetName=GND Pin=*23-2
+Added Pin To Net: NetName=GND Pin=*23-10
+Added Pin To Net: NetName=GND Pin=*23-14
+Added Pin To Net: NetName=GND Pin=*23-22
+Added Pin To Net: NetName=GND Pin=*23-29
+Added Pin To Net: NetName=GND Pin=*24-1
+Added Pin To Net: NetName=GND Pin=*25-1
+Added Net: Name=GND
+Added Pin To Net: NetName=H1 Pin=*1-1
+Added Pin To Net: NetName=H1 Pin=*19-13
+Added Net: Name=H1
+Added Pin To Net: NetName=H2 Pin=*1-2
+Added Pin To Net: NetName=H2 Pin=*19-14
+Added Net: Name=H2
+Added Pin To Net: NetName=H3 Pin=*1-3
+Added Pin To Net: NetName=H3 Pin=*19-15
+Added Net: Name=H3
+Added Pin To Net: NetName=H4 Pin=*1-4
+Added Pin To Net: NetName=H4 Pin=*19-16
+Added Net: Name=H4
+Added Pin To Net: NetName=H5 Pin=*1-5
+Added Pin To Net: NetName=H5 Pin=*19-17
+Added Net: Name=H5
+Added Pin To Net: NetName=H6 Pin=*1-6
+Added Pin To Net: NetName=H6 Pin=*19-18
+Added Net: Name=H6
+Added Pin To Net: NetName=H7 Pin=*1-7
+Added Pin To Net: NetName=H7 Pin=*19-19
+Added Net: Name=H7
+Added Pin To Net: NetName=H8 Pin=*1-8
+Added Pin To Net: NetName=H8 Pin=*19-20
+Added Net: Name=H8
+Added Pin To Net: NetName=H9 Pin=*1-9
+Added Pin To Net: NetName=H9 Pin=*19-21
+Added Net: Name=H9
+Added Pin To Net: NetName=H10 Pin=*1-10
+Added Pin To Net: NetName=H10 Pin=*19-22
+Added Net: Name=H10
+Added Pin To Net: NetName=HR Pin=*10-1
+Added Pin To Net: NetName=HR Pin=*20-7
+Added Net: Name=HR
+Added Pin To Net: NetName=HT Pin=*10-2
+Added Pin To Net: NetName=HT Pin=*20-28
+Added Net: Name=HT
+Added Pin To Net: NetName=M11 Pin=*5-4
+Added Pin To Net: NetName=M11 Pin=*22-6
+Added Net: Name=M11
+Added Pin To Net: NetName=M12 Pin=*5-5
+Added Pin To Net: NetName=M12 Pin=*22-7
+Added Net: Name=M12
+Added Pin To Net: NetName=M21 Pin=*5-10
+Added Pin To Net: NetName=M21 Pin=*22-8
+Added Net: Name=M21
+Added Pin To Net: NetName=M22 Pin=*5-11
+Added Pin To Net: NetName=M22 Pin=*22-9
+Added Net: Name=M22
+Added Pin To Net: NetName=M31 Pin=*6-4
+Added Pin To Net: NetName=M31 Pin=*22-12
+Added Net: Name=M31
+Added Pin To Net: NetName=M32 Pin=*6-5
+Added Pin To Net: NetName=M32 Pin=*22-13
+Added Net: Name=M32
+Added Pin To Net: NetName=M41 Pin=*6-10
+Added Pin To Net: NetName=M41 Pin=*22-14
+Added Net: Name=M41
+Added Pin To Net: NetName=M42 Pin=*6-11
+Added Pin To Net: NetName=M42 Pin=*22-15
+Added Net: Name=M42
+Added Pin To Net: NetName=M51 Pin=*7-4
+Added Pin To Net: NetName=M51 Pin=*22-21
+Added Net: Name=M51
+Added Pin To Net: NetName=M52 Pin=*7-5
+Added Pin To Net: NetName=M52 Pin=*22-22
+Added Net: Name=M52
+Added Pin To Net: NetName=M61 Pin=*7-10
+Added Pin To Net: NetName=M61 Pin=*22-23
+Added Net: Name=M61
+Added Pin To Net: NetName=M62 Pin=*7-11
+Added Pin To Net: NetName=M62 Pin=*22-24
+Added Net: Name=M62
+Added Pin To Net: NetName=MO11 Pin=*5-8
+Added Pin To Net: NetName=MO11 Pin=*16-1
+Added Net: Name=MO11
+Added Pin To Net: NetName=MO12 Pin=*5-9
+Added Pin To Net: NetName=MO12 Pin=*16-6
+Added Net: Name=MO12
+Added Pin To Net: NetName=MO21 Pin=*5-6
+Added Pin To Net: NetName=MO21 Pin=*17-1
+Added Net: Name=MO21
+Added Pin To Net: NetName=MO22 Pin=*5-7
+Added Pin To Net: NetName=MO22 Pin=*17-6
+Added Net: Name=MO22
+Added Pin To Net: NetName=MO31 Pin=*6-8
+Added Pin To Net: NetName=MO31 Pin=*18-1
+Added Net: Name=MO31
+Added Pin To Net: NetName=MO32 Pin=*6-9
+Added Pin To Net: NetName=MO32 Pin=*18-6
+Added Net: Name=MO32
+Added Pin To Net: NetName=MO41 Pin=*6-6
+Added Pin To Net: NetName=MO41 Pin=*13-1
+Added Net: Name=MO41
+Added Pin To Net: NetName=MO42 Pin=*6-7
+Added Pin To Net: NetName=MO42 Pin=*13-6
+Added Net: Name=MO42
+Added Pin To Net: NetName=MO51 Pin=*7-8
+Added Pin To Net: NetName=MO51 Pin=*14-1
+Added Net: Name=MO51
+Added Pin To Net: NetName=MO52 Pin=*7-9
+Added Pin To Net: NetName=MO52 Pin=*14-6
+Added Net: Name=MO52
+Added Pin To Net: NetName=MO61 Pin=*7-6
+Added Pin To Net: NetName=MO61 Pin=*15-1
+Added Net: Name=MO61
+Added Pin To Net: NetName=MO62 Pin=*7-7
+Added Pin To Net: NetName=MO62 Pin=*15-6
+Added Net: Name=MO62
+Added Pin To Net: NetName=PWM1 Pin=*21-3
+Added Pin To Net: NetName=PWM1 Pin=*23-17
+Added Net: Name=PWM1
+Added Pin To Net: NetName=PWM2 Pin=*23-18
+Added Pin To Net: NetName=PWM2 Pin=*24-3
+Added Net: Name=PWM2
+Added Pin To Net: NetName=PWM3 Pin=*23-19
+Added Pin To Net: NetName=PWM3 Pin=*25-3
+Added Net: Name=PWM3
+Added Pin To Net: NetName=WATER1 Pin=*8-4
+Added Pin To Net: NetName=WATER1 Pin=*20-21
+Added Net: Name=WATER1
+Added Pin To Net: NetName=WATER2 Pin=*8-5
+Added Pin To Net: NetName=WATER2 Pin=*20-42
+Added Net: Name=WATER2
+Added Pin To Net: NetName=WATERO1 Pin=*4-1
+Added Pin To Net: NetName=WATERO1 Pin=*8-8
+Added Net: Name=WATERO1
+Added Pin To Net: NetName=WATERO2 Pin=*4-2
+Added Pin To Net: NetName=WATERO2 Pin=*8-9
+Added Net: Name=WATERO2
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

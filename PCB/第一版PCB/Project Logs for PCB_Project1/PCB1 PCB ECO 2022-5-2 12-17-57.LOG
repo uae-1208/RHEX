@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=MO41 Pin=*6-6
+Removed Pin From Net: NetName=MO42 Pin=*6-7
+Removed Pin From Net: NetName=M41 Pin=*6-10
+Removed Pin From Net: NetName=M42 Pin=*6-11
+Removed Pin From Net: NetName=MO61 Pin=*7-6
+Removed Pin From Net: NetName=MO62 Pin=*7-7
+Removed Pin From Net: NetName=M61 Pin=*7-10
+Removed Pin From Net: NetName=M62 Pin=*7-11
+Added Pin To Net: NetName=MO61 Pin=*6-6
+Added Pin To Net: NetName=MO62 Pin=*6-7
+Added Pin To Net: NetName=M61 Pin=*6-10
+Added Pin To Net: NetName=M62 Pin=*6-11
+Added Pin To Net: NetName=MO41 Pin=*7-6
+Added Pin To Net: NetName=MO42 Pin=*7-7
+Added Pin To Net: NetName=M41 Pin=*7-10
+Added Pin To Net: NetName=M42 Pin=*7-11
+Added Room: Name=Sheet1

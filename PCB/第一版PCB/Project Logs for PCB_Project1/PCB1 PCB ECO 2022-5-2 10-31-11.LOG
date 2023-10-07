@@ -1,0 +1,6 @@
+Added Component: Designator=*12(POWER)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=12V_IN Pin=*12-1
+Added Pin To Net: NetName=GND Pin=*12-2
+Added Member To Class: ClassName=Sheet1 Member=Component *12 POWER
+Added Room: Name=Sheet1

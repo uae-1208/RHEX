@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=5V Pin=*16-30
+Added Pin To Net: NetName=12V Pin=*16-30
+Added Pin To Net: NetName=12V Pin=*16-35
+Added Member To Class: ClassName=控制板原理图 Member=Component *16 40P
+Added Member To Class: ClassName=控制板原理图 Member=Component  SWITCH

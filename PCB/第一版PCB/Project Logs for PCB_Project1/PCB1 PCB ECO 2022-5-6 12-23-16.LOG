@@ -1,0 +1,94 @@
+Change Component Designator: OldDesignator= NewDesignator=*1
+Change Component Designator: OldDesignator= NewDesignator=*2
+Change Component Designator: OldDesignator=407L NewDesignator=*20
+Change Component Designator: OldDesignator=407R NewDesignator=*19
+Change Component Designator: OldDesignator=A49501 NewDesignator=*5
+Change Component Designator: OldDesignator=A49502 NewDesignator=*6
+Change Component Designator: OldDesignator=A49503 NewDesignator=*7
+Change Component Designator: OldDesignator=A49504 NewDesignator=*8
+Change Component Designator: OldDesignator=BlUETOOTH NewDesignator=*10
+Change Component Designator: OldDesignator=DC-DC NewDesignator=*11
+Change Component Designator: OldDesignator=ESP8266 NewDesignator=*23
+Change Component Designator: OldDesignator=F401 NewDesignator=*22
+Change Component Designator: OldDesignator=M1 NewDesignator=*15
+Change Component Designator: OldDesignator=M2 NewDesignator=*16
+Change Component Designator: OldDesignator=M3 NewDesignator=*17
+Change Component Designator: OldDesignator=M4 NewDesignator=*12
+Change Component Designator: OldDesignator=M5 NewDesignator=*13
+Change Component Designator: OldDesignator=M6 NewDesignator=*14
+Change Component Designator: OldDesignator=POWER NewDesignator=*9
+Change Component Designator: OldDesignator=PWM1 NewDesignator=*21
+Change Component Designator: OldDesignator=PWM2 NewDesignator=*24
+Change Component Designator: OldDesignator=PWM3 NewDesignator=*25
+Change Component Designator: OldDesignator=SWITCH NewDesignator=*3
+Change Component Designator: OldDesignator=WATEAR NewDesignator=*4
+Added Component: Designator=*(A4950)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(A4950)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(DC-DC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(ENCODER1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(ENCODER1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(ENCODER1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(ENCODER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(ENCODER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(ENCODER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(POWER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(POWER_HEADER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(PWM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(PWM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(PWM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(WATER_HEADER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(STM32F407×ó)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(STM32F407×ó)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(STM32F401CCU6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(ESP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(A4950)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(A4950)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(A4950)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(A4950)
+Add component. Clean all parameters for all variants
+Added Class: Name=Sheet2
+Added Member To Class: ClassName=Sheet1 Member=Component *1 PIN_HEADER
+Added Member To Class: ClassName=Sheet1 Member=Component *2 POWER_HEADER
+Added Member To Class: ClassName=Sheet1 Member=Component *3 SWITCH
+Added Member To Class: ClassName=Sheet1 Member=Component *4 WATER_MOTER
+Added Member To Class: ClassName=Sheet1 Member=Component *5 A4950
+Added Member To Class: ClassName=Sheet1 Member=Component *6 A4950
+Added Member To Class: ClassName=Sheet1 Member=Component *7 A4950
+Added Member To Class: ClassName=Sheet1 Member=Component *8 A4950
+Added Member To Class: ClassName=Sheet1 Member=Component *9 POWER
+Added Member To Class: ClassName=Sheet1 Member=Component *10 HC-06
+Added Member To Class: ClassName=Sheet1 Member=Component *11 DC-DC
+Added Member To Class: ClassName=Sheet1 Member=Component *12 ENCODER4
+Added Member To Class: ClassName=Sheet1 Member=Component *13 ENCODER5
+Added Member To Class: ClassName=Sheet1 Member=Component *14 ENCODER6
+Added Member To Class: ClassName=Sheet1 Member=Component *15 ENCODER1
+Added Member To Class: ClassName=Sheet1 Member=Component *16 ENCODER2
+Added Member To Class: ClassName=Sheet1 Member=Component *17 ENCODER3
+Added Member To Class: ClassName=Sheet1 Member=Component *19 STM32F407ÓÒ
+Added Member To Class: ClassName=Sheet1 Member=Component *20 STM32F407×ó
+Added Member To Class: ClassName=Sheet1 Member=Component *22 STM32F401
+Added Member To Class: ClassName=Sheet1 Member=Component *23 ESP8266
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

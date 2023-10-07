@@ -1,0 +1,44 @@
+Added Component: Designator=*16(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MO11 Pin=*16-1
+Added Pin To Net: NetName=MO11 Pin=*16-2
+Added Pin To Net: NetName=MO12 Pin=*16-3
+Added Pin To Net: NetName=MO12 Pin=*16-4
+Added Pin To Net: NetName=MO21 Pin=*16-5
+Added Pin To Net: NetName=MO21 Pin=*16-6
+Added Pin To Net: NetName=MO22 Pin=*16-7
+Added Pin To Net: NetName=MO22 Pin=*16-8
+Added Pin To Net: NetName=MO31 Pin=*16-9
+Added Pin To Net: NetName=MO31 Pin=*16-10
+Added Pin To Net: NetName=MO32 Pin=*16-11
+Added Pin To Net: NetName=MO32 Pin=*16-12
+Added Pin To Net: NetName=MO41 Pin=*16-13
+Added Pin To Net: NetName=MO41 Pin=*16-14
+Added Pin To Net: NetName=MO42 Pin=*16-15
+Added Pin To Net: NetName=MO42 Pin=*16-16
+Added Pin To Net: NetName=MO51 Pin=*16-17
+Added Pin To Net: NetName=MO51 Pin=*16-18
+Added Pin To Net: NetName=MO52 Pin=*16-19
+Added Pin To Net: NetName=MO52 Pin=*16-20
+Added Pin To Net: NetName=MO61 Pin=*16-21
+Added Pin To Net: NetName=MO61 Pin=*16-22
+Added Pin To Net: NetName=MO62 Pin=*16-23
+Added Pin To Net: NetName=MO62 Pin=*16-24
+Added Pin To Net: NetName=401R Pin=*16-25
+Added Pin To Net: NetName=401T Pin=*16-26
+Added Pin To Net: NetName=5V Pin=*16-27
+Added Pin To Net: NetName=5V Pin=*16-28
+Added Pin To Net: NetName=5V Pin=*16-29
+Added Pin To Net: NetName=5V Pin=*16-30
+Added Pin To Net: NetName=12V Pin=*16-31
+Added Pin To Net: NetName=12V Pin=*16-32
+Added Pin To Net: NetName=12V Pin=*16-33
+Added Pin To Net: NetName=12V Pin=*16-34
+Added Pin To Net: NetName=12V Pin=*16-35
+Added Pin To Net: NetName=GND Pin=*16-36
+Added Pin To Net: NetName=GND Pin=*16-37
+Added Pin To Net: NetName=GND Pin=*16-38
+Added Pin To Net: NetName=GND Pin=*16-39
+Added Pin To Net: NetName=GND Pin=*16-40
+Added Member To Class: ClassName=控制板原理图 Member=Component *16 40P
+Added Room: Name=控制板原理图

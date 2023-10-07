@@ -1,0 +1,5 @@
+Remove Pin=*16-30 From Net=12V
+Change Component Designator: OldDesignator=*4 NewDesignator=
+Add Pin To Net: Pin=*16-29 Old Net=12V New Net=5V
+Add Pin To Net: Pin=*16-30 Old Net=12V New Net=5V
+Change Pin Designator/Name:  Old Designator=*16-29 Old Name=5V New Designator =12V New Name=35
